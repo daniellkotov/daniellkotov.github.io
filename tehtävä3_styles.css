@@ -1,0 +1,30 @@
+.varipaletti {
+    color: blue; /* Lempiväri nimettynä */
+    background-color: #ffcccb; /* Vastakkainen väri heksadesimaalina */
+    border: 2px solid rgb(193, 9, 120); /* Reunus */
+  }
+  
+  .Otsikko {
+    font-size: 32px;
+    font-family: Arial, sans-serif;
+    color: rgb(178, 220, 7);
+  }
+  
+  .lista {
+    list-style-type: square;
+    color: rgb(10, 10, 228);
+  }
+  
+  .text-example {
+    font-family: 'Georgia', serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: rgb(165, 17, 4);
+  }
+  
+  .div-example {
+    background-color: #f0f8ff;
+    border: 3px dashed #0baca6;
+  }
+  
